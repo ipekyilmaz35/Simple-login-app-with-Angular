@@ -17,5 +17,5 @@
 * Run `ng serve` for a dev server. Then you can navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Sample Screen Appearance
-*  ![There was a screenshot here](./screenshot.png)
+ ![There was a screenshot here](./screenshot.png)
 
